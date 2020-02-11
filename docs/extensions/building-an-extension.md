@@ -24,13 +24,13 @@ In this example, we'll use our blank-slate ReactJS template to build a utility b
 
 	``` bash
 	cd react-blank-slate
-	npm install
+	yarn install
 	```
 
 1. Start the local web server to host the app.
 
 	``` bash
-	npm run start
+	yarn start
   ```		
 
 1. In the command output from above, note the port number used. By default, it will probably be port 8080 if it's available. Open `localhost:8080` in your browser. You should see the text "Component is ready" on the page.
